@@ -1,5 +1,6 @@
 
 Trip Spark ✨✈️
+
 Welcome to Trip Spark! This isn't just another flight booking app; it's a showcase of a seamless user interface, top-tier performance, and inclusive design built with modern web technologies. This project demonstrates a complete front-end experience, from a captivating landing page to the final seat selection.
 
 🔴 Live Demo Here!
